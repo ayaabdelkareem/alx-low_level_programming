@@ -6,7 +6,7 @@
  * main - Entry point
  *
  * Description: print the value of the status:
-		grater than is zero, and not less than 6
+ *		grater than is zero, and not less than 6
  *
  * Return: alaways 0 (success)
 */
