@@ -8,7 +8,7 @@
  * Description: print the value of the status:
  *		grater than is zero, and not less than 6
  *
- * Return: alaways 0 (success)
+ * Return: 0 (success)
 */
 int main(void)
 {
@@ -20,7 +20,7 @@ int main(void)
 
 	if (digit > 5)
 		printf("Last digit of %i is %i and is greater than 5\n", n, digit);
-	else if (digit == 5)
+	else if (digit == )
 		printf("Last digit of %i is %i and is 0\n", n, digit);
 	else if (digit < 6 && digit != 0)
 		printf("Last digit of %i is %i and is less than 6 and not 0\n", n, digit);
