@@ -2,7 +2,9 @@
 
 /**
  * print_rev - prints reversed string, followed by a newline
+ *
  * @s: pointer to hte string to print
+ *
  * Return: void
 */
 
